@@ -1,4 +1,4 @@
-# Hi there 👋, I am Md. Nazmul Ali Biswas
+### Hi there 👋, I am Md. Nazmul Ali Biswas
 #### Software Developer 
 ![Software Developer ](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/334992360_174100211636260_9127114437186205078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGP0WC8D4RnhrvUMEXYLGr2FUK2B54Jc9sVQrYHnglz20MwT3oYZ0YLm1yRyZNGvxQlmZIRo0kfxRDfVz9hwsmu&_nc_ohc=WwwVdY4NqhkAX_3qkph&_nc_ht=scontent.fdac90-1.fna&oh=00_AfALThSJdlpTEiySZbLdoeagrZvTxYKmzWDpfY0hfZD9nA&oe=6411A1F0)
 
@@ -68,8 +68,6 @@ Skills:  PYTHON/ REACT / JS / HTML / CSS/WORDPRESS/DJANGO
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulalibiswas)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulalibiswas&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazmulalibiswas)  
 
 ![GitHub metrics](https://metrics.lecoq.io/nazmulalibiswas)  
 
