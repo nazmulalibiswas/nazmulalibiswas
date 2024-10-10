@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Md. Nazmul Ali Biswas
 #### Software Developer 
-![Software Developer ](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/334992360_174100211636260_9127114437186205078_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGP0WC8D4RnhrvUMEXYLGr2FUK2B54Jc9sVQrYHnglz20MwT3oYZ0YLm1yRyZNGvxQlmZIRo0kfxRDfVz9hwsmu&_nc_ohc=WwwVdY4NqhkAX_3qkph&_nc_ht=scontent.fdac90-1.fna&oh=00_AfALThSJdlpTEiySZbLdoeagrZvTxYKmzWDpfY0hfZD9nA&oe=6411A1F0)
+![Software Developer ]
 
 Hello Dear, How are you? I hope you are well. I am Nazmul Ali Biswas. I am a programmer. I have 4 years more experience about Computer Software & Web development Sector. I have multiple experience in programming sector. Software development is my favorite occupation. Some of my extra experience activities is Web Design in UI/UX design service, Web programming in mid level & that is Pro level WordPress theme customization & Expert Level Graphics design service.
 My Experience in Language:
