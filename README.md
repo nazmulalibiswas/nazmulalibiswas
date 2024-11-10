@@ -67,8 +67,7 @@ Skills:  PYTHON/ REACT / JS / HTML / CSS/NODE/DJANGO
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazmulalibiswas&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/nazmulalibiswas)  
+![GitHub metrics] (https://metrics.lecoq.io/nazmulalibiswas)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmulalibiswas)  
 
-!(https://gpvc.arturio.dev/nazmulalibiswas)  
