@@ -1,31 +1,27 @@
 ### Hi there 👋, I am Md. Nazmul Ali Biswas
-#### Software Developer 
-Ful Stack Web Development
+#### Software Developer (Based On Web)
 
-Hello Dear, How are you? I hope you are well. I am Nazmul Ali Biswas. I am a programmer. I have 4 years more experience about Computer Software & Web development Sector. I have multiple experience in programming sector. Software development is my favorite occupation. Some of my extra experience activities is Web Design in UI/UX design service, Web programming in mid level & that is Pro level WordPress theme customization & Expert Level Graphics design service.
+Hello Dear, How are you? I hope you are well. I am Nazmul Ali Biswas. I am a small programmer. I have almost 4 year's experiences about computer software & wb development sector. I have multiple experience in programming sector. Software development is my favorite occupation. Some of my extra experience activities is Web Design in UI/UX design service, Web programming in expert level & that is Pro web app development & expert level ecommerce web app design and development services.
 My Experience in Language:
-1. Python
-2. C
-3. Html
-4. JavaScript
-5. CSS
-
-My Experience in Web Framework is:
-1. Django
-2. WordPress
-3.CMS
+1. HTML5
+2. CSS3 (Bootstrap & Tailwind)
+3. JavaScript (React & Node)
+4. Python (Django)
+5. Java (Basic)
+6. C & C++ (Mid)
 
 👨🎨 My Expertise For Using Tools:
 ---------------------------------------------
-✅ Python with PyCharm IDE
-✅ Visual Basic
 ✅ Visual Studio Code
+✅ Online GDB
+✅ Python with PyCharm IDE
 ✅ Notepad
 ✅ Notepad++
 
 
-👨🎨 My Extra Expertise For Using Tools:
----------------------------------------------
+👨🎨 My Extra Expertise For Using Tools & Software:
+---------------------------------------------------
+✅ Figma
 ✅ Adobe Illustrator
 ✅ Adobe Photoshop
 ✅ Adobe XD
@@ -43,12 +39,14 @@ My Experience in Web Framework is:
 ✅ Ulead Cool Video Studio
 ✅ Photo shine
 
-I am experience in programmer above more than three years. I always try to learn anything. I am professional pro level programmer. My client always happy for my service. Anyone face a some problem in another time. Then they are need to help. I always try to solve their problem. At last I am a small author, Instructor & Programmer.
+I am experience in programmer above more than three years. I always try to learn anything. I want to became a professional programmer. My client always happy for my service. Anyone face a some problem in another time, Then they are need to help. I always try to solve their problem. At last I am a small author, Instructor & Entrpreuner.
+
 Thanks a lot
 Sincerely
 Nazmul Ali Biswas.
+(Software Developer)
 
-Skills:  PYTHON/ REACT / JS / HTML / CSS/WORDPRESS/DJANGO
+Skills:  PYTHON/ REACT / JS / HTML / CSS/NODE/DJANGO
 
 - 🔭 I’m currently working on Programming Contest. 
 - 🌱 I’m currently learning JavaScript 
