@@ -71,4 +71,4 @@ Skills:  PYTHON/ REACT / JS / HTML / CSS/NODE/DJANGO
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nazmulalibiswas)  
 
-![Profile views](https://gpvc.arturio.dev/nazmulalibiswas)  
+!(https://gpvc.arturio.dev/nazmulalibiswas)  
